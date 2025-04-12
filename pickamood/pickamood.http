@@ -1,0 +1,6 @@
+@pickamood_HostAddress = http://localhost:5195
+
+GET {{pickamood_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

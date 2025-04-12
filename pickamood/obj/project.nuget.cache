@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQyuwNkfAoqPn0DJFIkTDFrt+5fJnS1buFGr0l19zLsth/Ojc8E2+M2skWAqOgts9z9VM8iXAduYGI6XlDEgfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Meriem\\source\\repos\\pickamood\\pickamood\\pickamood.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meriem\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Meriem\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Meriem\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Meriem\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Meriem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Meriem\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
